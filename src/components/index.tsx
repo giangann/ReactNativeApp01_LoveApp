@@ -1,7 +1,7 @@
 import { View } from "react-native"
 import styled from "styled-components"
 
-const Heading = styled(Text)`
+const Heading = styled(Text but not text)`
     text-align: center;
     font-size: 20px;
     margin-bottom: 16px;
